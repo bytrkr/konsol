@@ -1,7 +1,7 @@
 import { spawnSync } from "node:child_process";
 import fsSync from "node:fs";
 import pathMod from "node:path";
-process.chdir("/home/bytrkr/bistapp");
+// process.chdir("/home/bytrkr/bistapp"); // Yeni sunucuda otomatik ayarlanır
 import http from 'node:http';
 import os from 'node:os';
 import fs from 'node:fs';
