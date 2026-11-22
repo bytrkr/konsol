@@ -1,0 +1,15 @@
+{
+  "name": "mt16-konsol",
+  "version": "1.0.0",
+  "description": "MT16 AI Studio - Canlı Sistem ve Log İzleme Konsolu",
+  "main": "kokpit3001.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node kokpit3001.mjs"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2"
+  },
+  "author": "bytrkr",
+  "license": "ISC"
+}
